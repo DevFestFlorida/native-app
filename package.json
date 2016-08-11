@@ -1,9 +1,9 @@
 {
-  "name": "angular2-seed-advanced",
+  "name": "native-app",
   "version": "0.0.0",
-  "description": "Advanced seed for Angular 2 apps",
+  "description": "DevFest Florida 2016 native apps",
   "repository": {
-    "url": "https://github.com/NathanWalker/angular2-seed-advanced"
+    "url": "https://github.com/DevFestFlorida/native-app"
   },
   "scripts": {
     "build.desktop.mac": "rimraf desktop/mac/* && gulp desktop.mac",
@@ -55,6 +55,9 @@
   "contributors": [
     {
       "name": "Nathan Walker <NathanWalker>"
+    },
+    {
+      "name": "Michael Prentice <Splaktar>"
     }
   ],
   "license": "MIT",
